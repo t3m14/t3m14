@@ -13,3 +13,5 @@
 ![Python](https://img.shields.io/badge/-RabbitMQ-000??style=for-the-badge&logo=rabbitmq)
 ![Python](https://img.shields.io/badge/-Bots-000??style=for-the-badge&logo=telegram)
 ![Python](https://img.shields.io/badge/-Bots-000??style=for-the-badge&logo=vk)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.t3m14.visitor-badge&left_color=black&right_color=black)
