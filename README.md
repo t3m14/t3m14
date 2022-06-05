@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3m14&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=t3m14)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=t3m14&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Python](https://img.shields.io/badge/-Python-000??style=for-the-badge&logo=Python)
 ![Python](https://img.shields.io/badge/-Django-000??style=for-the-badge&logo=django)
