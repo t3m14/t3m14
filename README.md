@@ -25,7 +25,11 @@
 ![Python](https://img.shields.io/badge/-Golang-000??style=for-the-badge&logo=go)
 
 ![Python](https://img.shields.io/badge/-JS-000??style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Jquery-000??style=for-the-badge&logo=jquery)
 ![Python](https://img.shields.io/badge/-HTML-000??style=for-the-badge&logo=html5)
+
+![Python](https://img.shields.io/badge/-Dart-000??style=for-the-badge&logo=dart)
+![Python](https://img.shields.io/badge/-Flutter-000??style=for-the-badge&logo=Flutter)
 
 ![Python](https://img.shields.io/badge/-CSS-000??style=for-the-badge&logo=css3)
 ![Python](https://img.shields.io/badge/-Bootstrap-000??style=for-the-badge&logo=bootstrap)
