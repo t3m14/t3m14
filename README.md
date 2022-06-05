@@ -6,6 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=t3m14&row=2&column=3&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+## STACK
+### Main stack
 ![Python](https://img.shields.io/badge/-Python-000??style=for-the-badge&logo=Python)
 ![Python](https://img.shields.io/badge/-Django-000??style=for-the-badge&logo=django)
 ![Python](https://img.shields.io/badge/-Flask-000??style=for-the-badge&logo=flask)
@@ -19,7 +21,7 @@
 ![Python](https://img.shields.io/badge/-SQL-000??style=for-the-badge&logo=postgresql)
 ![Python](https://img.shields.io/badge/-SQL-000??style=for-the-badge&logo=sqlite)
 
-
+### Step stack
 ![Python](https://img.shields.io/badge/-Golang-000??style=for-the-badge&logo=go)
 
 ![Python](https://img.shields.io/badge/-JS-000??style=for-the-badge&logo=javascript)
@@ -39,6 +41,6 @@
 ![Python](https://img.shields.io/badge/-Unity-000??style=for-the-badge&logo=UNITY)
 
 
-
+##### visitors
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.t3m14.visitor-badge&left_color=black&right_color=black)
