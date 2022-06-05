@@ -12,4 +12,4 @@
 ![Python](https://img.shields.io/badge/-Redis-000??style=for-the-badge&logo=redis)
 ![Python](https://img.shields.io/badge/-RabbitMQ-000??style=for-the-badge&logo=rabbitmq)
 ![Python](https://img.shields.io/badge/-Bots-000??style=for-the-badge&logo=telegram)
-![Python](https://img.shields.io/badge/-Bosts-000??style=for-the-badge&logo=vk)
+![Python](https://img.shields.io/badge/-Bots-000??style=for-the-badge&logo=vk)
