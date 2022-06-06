@@ -4,8 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3m14&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=t3m14&row=2&column=3&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t3m14&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=t3m14&row=2&column=3&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ## STACK
 ### Main stack
 ![Python](https://img.shields.io/badge/-Python-000??style=for-the-badge&logo=Python)
