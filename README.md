@@ -22,7 +22,7 @@
 ![Python](https://img.shields.io/badge/-SQL-000??style=for-the-badge&logo=postgresql)
 ![Python](https://img.shields.io/badge/-SQL-000??style=for-the-badge&logo=sqlite)
 
-### Step stack
+### Secondary stack
 ![Python](https://img.shields.io/badge/-Golang-000??style=for-the-badge&logo=go)
 
 ![Python](https://img.shields.io/badge/-JS-000??style=for-the-badge&logo=javascript)
